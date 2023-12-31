@@ -1,5 +1,3 @@
-# WARNING: This project is considered orphaned since the 8th of March, 2023. Use is heavily discouraged until such a time that it is adopted by another developer.
-
 Light - A program to control backlights (and other hardware lights) in GNU/Linux
 ==================================================
 
