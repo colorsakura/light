@@ -211,7 +211,7 @@ static void _light_print_usage()
         "                 3: Values, Errors, Warnings, Notices.\n"
         "\n");
 
-    printf("Copyright (C) %s  %s\n", LIGHT_YEAR, LIGHT_AUTHOR);
+    printf("Copyright (C) %s\n", LIGHT_COPYRIGHT);
     printf("This is free software, see the source for copying conditions.  There is NO\n"
         "warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE\n"
         "\n");

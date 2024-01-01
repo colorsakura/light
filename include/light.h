@@ -8,8 +8,7 @@
 
 #include "config.h"
 
-#define LIGHT_YEAR   "2012 - 2018"
-#define LIGHT_AUTHOR "Fredrik Haikarainen"
+#define LIGHT_COPYRIGHT "2012 - 2018 Fredrik Haikarainen, 2023 - now Xiang Chen"
 
 struct _light_device_target_t;
 typedef struct _light_device_target_t light_device_target_t;
