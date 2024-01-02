@@ -4,6 +4,13 @@ Change Log
 All relevant changes to the project are documented in this file.
 
 
+[v1.3][] - 2024-01-01
+---------------------
+
+### Changes
+- Change to meson build system
+
+
 [v1.2][] - 2018-09-23
 ---------------------
 
